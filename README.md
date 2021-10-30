@@ -52,4 +52,4 @@ In the results, 3D plot looks like more informative than 2D but last is easier t
 
 ![image](https://user-images.githubusercontent.com/68247343/139560415-d1495396-88ca-4b23-a346-47821be60ad3.png)
 
-So, on the last plot it appears Two clusters are overlapping and not quite forming the distincts groups. They look not okay because sof some data points mixed in the middle a lot.
+So, on the last plot it appears two clusters are overlapping and not quite forming the distincts groups. They look not okay because of some data points mixed in the middle a lot.
