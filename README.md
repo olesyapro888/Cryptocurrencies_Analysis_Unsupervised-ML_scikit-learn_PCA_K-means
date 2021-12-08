@@ -1,15 +1,16 @@
-# Cryptocurrencies. Project 18 of the UofT.
+# Cryptocurrencies. The project 18 of the University of Toronto.
+
 ## `-Contents-`	
 	
 - [Overview of the Cryptocurrencies Analysis](#Overview-of-the-Cryptocurrencies-Analysis)	
 - [Resources](#resources)	
 - [The Cryptocurrencies Analysis Summary](#The-Cryptocurrencies-Analysis-Summary)
+
 ## `Overview of the Cryptocurrencies Analysis`
 
-The purpose for the project is to prepare an analysis for the clients who are preparing to get into the cryptocurrency market. For the purpose, and as there is no known output it needs to process data, to cluster it, to reduce the dimensions, and the principal components by using unsupervised learning. Unsupervised learning doesn't have a clear outcome or target variable and it is used to find patterns.
+The purpose of the project is to prepare an analysis for the clients who are preparing to get into the cryptocurrency market. For the purpose, and as there is no known output it needs to process data, to cluster it, to reduce the dimensions, and the principal components by using unsupervised learning. Unsupervised learning doesn't have a clear outcome or target variable and it is used to find patterns.
 
 The analysis consists of four technical analysis deliverables as the following: 
-
 - Preprocessing the Data for PCA;
 - Reducing Data Dimensions Using PCA;
 - Clustering Cryptocurrencies Using K-means;
