@@ -1,4 +1,4 @@
-# Cryptocurrencies. The project 18 of the University of Toronto.
+# Cryptocurrency analysis to creat a classification system for a new investment using unsupervised machine learning with scikit-learn, Pandas, hvPlot, PCA, K-means algoritms.
 
 ## `-Contents-`	
 	
